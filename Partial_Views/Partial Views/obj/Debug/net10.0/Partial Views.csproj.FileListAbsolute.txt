@@ -1,0 +1,34 @@
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\bin\Debug\net10.0\appsettings.json
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\bin\Debug\net10.0\Partial Views.staticwebassets.runtime.json
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\bin\Debug\net10.0\Partial Views.staticwebassets.endpoints.json
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\bin\Debug\net10.0\Partial Views.exe
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\bin\Debug\net10.0\Partial Views.deps.json
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\bin\Debug\net10.0\Partial Views.runtimeconfig.json
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\bin\Debug\net10.0\Partial Views.dll
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\bin\Debug\net10.0\Partial Views.pdb
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\Partial Views.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\Partial Views.AssemblyInfoInputs.cache
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\Partial Views.AssemblyInfo.cs
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\Partial Views.csproj.CoreCompileInputs.cache
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\Partial Views.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\Partial Views.RazorAssemblyInfo.cache
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\Partial Views.RazorAssemblyInfo.cs
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\Partial Views.sourcelink.json
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\scopedcss\bundle\Partial Views.styles.css
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\compressed\8ldg5jfthi-{0}-zsgxx0ffs5-zsgxx0ffs5.gz
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\Partial Views.dll
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\refint\Partial Views.dll
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\Partial Views.pdb
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\Partial Views.genruntimeconfig.cache
+C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\obj\Debug\net10.0\ref\Partial Views.dll
