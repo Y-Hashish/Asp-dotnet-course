@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Views\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B99FBA2B-F69B-293F-25FB-DD1E2D731EAF}|Views\\Views.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\views\\views\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99FBA2B-F69B-293F-25FB-DD1E2D731EAF}|Views\\Views.csproj|solutionrelative:views\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99FBA2B-F69B-293F-25FB-DD1E2D731EAF}|Views\\Views.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\views\\views\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B99FBA2B-F69B-293F-25FB-DD1E2D731EAF}|Views\\Views.csproj|solutionrelative:views\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Views\\Views\\Views\\Weather\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Views\\Weather\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Views\\Views\\Views\\Weather\\Index.cshtml",
+              "RelativeToolTip": "Views\\Views\\Weather\\Index.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T22:10:04.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Views\\Views\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "Views\\Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Views\\Views\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "Views\\Controllers\\WeatherController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T21:56:26.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

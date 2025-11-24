@@ -1,0 +1,30 @@
+﻿@model Person ;
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title> @Model.name</title>
+        <link href="~/StyleSheet.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div class="page-content">
+        <h1> Welcome @Model.name</h1>
+        <div class="float-left w-50 box">
+
+            <table class="table w-100">
+                <tbody>
+                    <tr>
+                        <td>Date of birth</td>
+                        <td>@Model.dateOfBirth</td>
+                    </tr>
+                    <tr>
+                        <td>Gender</td>
+                        <td>@Model.gender</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        </div>
+
+    </body>
+</html>

@@ -1,0 +1,33 @@
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\bin\Debug\net10.0\appsettings.json
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\bin\Debug\net10.0\Layout Assignment.staticwebassets.runtime.json
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\bin\Debug\net10.0\Layout Assignment.staticwebassets.endpoints.json
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\bin\Debug\net10.0\Layout Assignment.exe
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\bin\Debug\net10.0\Layout Assignment.deps.json
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\bin\Debug\net10.0\Layout Assignment.runtimeconfig.json
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\bin\Debug\net10.0\Layout Assignment.dll
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\bin\Debug\net10.0\Layout Assignment.pdb
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\Layout Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\Layout Assignment.AssemblyInfoInputs.cache
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\Layout Assignment.AssemblyInfo.cs
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\Layout Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\Layout Assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\Layout Assignment.RazorAssemblyInfo.cache
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\Layout Assignment.RazorAssemblyInfo.cs
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\scopedcss\bundle\Layout Assignment.styles.css
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\Layout Assignment.dll
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\refint\Layout Assignment.dll
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\Layout Assignment.pdb
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\Layout Assignment.genruntimeconfig.cache
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\ref\Layout Assignment.dll
+C:\Users\Hashish\Desktop\AspDotNet\Layout Assignment\Layout Assignment\obj\Debug\net10.0\compressed\e5oojbrgeo-{0}-yzxqd5i7a8-yzxqd5i7a8.gz

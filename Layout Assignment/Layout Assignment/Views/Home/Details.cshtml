@@ -1,0 +1,12 @@
+﻿@model CityWeather
+<div class="center">
+
+    <div class="weather-box box yellow w-50">
+        <div class="right">
+            <h2>@Model.CityName</h2>
+            <h4>@Model.DateAndTime.TimeOfDay AM</h4>
+            <a href="~/details/@Model.CityUniqueCode">Details</a>
+        </div>
+        <div class="left"><h3>@Model.TemperatureFahrenheit F </h3></div>
+    </div>
+</div>

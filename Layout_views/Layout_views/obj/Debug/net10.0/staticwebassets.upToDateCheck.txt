@@ -1,0 +1,2 @@
+wwwroot\StyleSheet.css
+C:\Users\Hashish\Desktop\AspDotNet\Layout_views\Layout_views\wwwroot\StyleSheet.css

@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CustomValidator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E417EF75-962E-4A5D-9216-88D16A0473A5}|CustomValidator\\CustomValidator.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\customvalidator\\customvalidator\\customvalidator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E417EF75-962E-4A5D-9216-88D16A0473A5}|CustomValidator\\CustomValidator.csproj|solutionrelative:customvalidator\\customvalidator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E417EF75-962E-4A5D-9216-88D16A0473A5}|CustomValidator\\CustomValidator.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\customvalidator\\customvalidator\\customvalidator\\greaterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E417EF75-962E-4A5D-9216-88D16A0473A5}|CustomValidator\\CustomValidator.csproj|solutionrelative:customvalidator\\customvalidator\\greaterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E417EF75-962E-4A5D-9216-88D16A0473A5}|CustomValidator\\CustomValidator.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\customvalidator\\customvalidator\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E417EF75-962E-4A5D-9216-88D16A0473A5}|CustomValidator\\CustomValidator.csproj|solutionrelative:customvalidator\\controllers\\assignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E417EF75-962E-4A5D-9216-88D16A0473A5}|CustomValidator\\CustomValidator.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\customvalidator\\customvalidator\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E417EF75-962E-4A5D-9216-88D16A0473A5}|CustomValidator\\CustomValidator.csproj|solutionrelative:customvalidator\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E417EF75-962E-4A5D-9216-88D16A0473A5}|CustomValidator\\CustomValidator.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\customvalidator\\customvalidator\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E417EF75-962E-4A5D-9216-88D16A0473A5}|CustomValidator\\CustomValidator.csproj|solutionrelative:customvalidator\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E417EF75-962E-4A5D-9216-88D16A0473A5}|CustomValidator\\CustomValidator.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\customvalidator\\customvalidator\\customvalidator\\assignmentgreaterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E417EF75-962E-4A5D-9216-88D16A0473A5}|CustomValidator\\CustomValidator.csproj|solutionrelative:customvalidator\\customvalidator\\assignmentgreaterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomValidator",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CustomValidator\\CustomValidator\\CustomValidator.csproj",
+              "RelativeDocumentMoniker": "CustomValidator\\CustomValidator.csproj",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CustomValidator\\CustomValidator\\CustomValidator.csproj",
+              "RelativeToolTip": "CustomValidator\\CustomValidator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T17:56:32.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssignmentGreaterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CustomValidator\\CustomValidator\\CustomValidator\\AssignmentGreaterAttribute.cs",
+              "RelativeDocumentMoniker": "CustomValidator\\CustomValidator\\AssignmentGreaterAttribute.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CustomValidator\\CustomValidator\\CustomValidator\\AssignmentGreaterAttribute.cs",
+              "RelativeToolTip": "CustomValidator\\CustomValidator\\AssignmentGreaterAttribute.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wBYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T21:12:20.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssignmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CustomValidator\\CustomValidator\\Controllers\\AssignmentController.cs",
+              "RelativeDocumentMoniker": "CustomValidator\\Controllers\\AssignmentController.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CustomValidator\\CustomValidator\\Controllers\\AssignmentController.cs",
+              "RelativeToolTip": "CustomValidator\\Controllers\\AssignmentController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T20:58:44.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CustomValidator\\CustomValidator\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CustomValidator\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CustomValidator\\CustomValidator\\Models\\Product.cs",
+              "RelativeToolTip": "CustomValidator\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T20:39:07.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CustomValidator\\CustomValidator\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "CustomValidator\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CustomValidator\\CustomValidator\\Models\\Order.cs",
+              "RelativeToolTip": "CustomValidator\\Models\\Order.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T20:37:03.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GreaterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CustomValidator\\CustomValidator\\CustomValidator\\GreaterAttribute.cs",
+              "RelativeDocumentMoniker": "CustomValidator\\CustomValidator\\GreaterAttribute.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CustomValidator\\CustomValidator\\CustomValidator\\GreaterAttribute.cs",
+              "RelativeToolTip": "CustomValidator\\CustomValidator\\GreaterAttribute.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T14:40:22.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

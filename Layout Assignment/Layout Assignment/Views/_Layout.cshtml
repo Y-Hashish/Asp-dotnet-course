@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/StyleSheet.css" rel="stylesheet" />
+
+    <style>
+        .weather-box {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+        }
+
+        .main {
+            display: flex;
+            justify-content: space-between;
+            align-content: center;
+            align-items: center;
+        }
+
+        .right {
+            padding-right: 20px;
+            border-right: 2px solid #ccc;
+
+            h4 {
+                color: gray;
+            }
+        }
+
+        .left {
+            align-content: center;
+        }
+
+        .blue {
+            background-color: aqua;
+        }
+
+        .yellow {
+            background-color: lemonchiffon;
+        }
+
+        .orange {
+            background-color: orange;
+        }
+
+        .center {
+            display:flex;
+            align-items :center;
+            justify-content:center;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>
