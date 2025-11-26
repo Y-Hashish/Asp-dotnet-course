@@ -1,2 +1,2 @@
 wwwroot\StyleSheet.css
-C:\Users\Hashish\Desktop\AspDotNet\Partial Views\Partial Views\wwwroot\StyleSheet.css
+C:\Users\Hashish\Desktop\AspDotNet\Partial_Views\Partial Views\wwwroot\StyleSheet.css

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\Partial Views\\Partial Views.csproj",
+      "projectUniqueName": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial_Views\\Partial Views\\Partial Views.csproj",
       "projectName": "Partial Views",
-      "projectPath": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\Partial Views\\Partial Views.csproj",
+      "projectPath": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial_Views\\Partial Views\\Partial Views.csproj",
       "packagesPath": "C:\\Users\\Hashish\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\Partial Views\\obj\\",
+      "outputPath": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial_Views\\Partial Views\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

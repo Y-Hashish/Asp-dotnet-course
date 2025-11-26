@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\layout assignment\\layout assignment\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|solutionrelative:layout assignment\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\layout assignment\\layout assignment\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|solutionrelative:layout assignment\\views\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\layout assignment\\layout assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|solutionrelative:layout assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\layout assignment\\layout assignment\\views\\shared\\_cirypartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|solutionrelative:layout assignment\\views\\shared\\_cirypartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\layout assignment\\layout assignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|solutionrelative:layout assignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\layout assignment\\layout assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|solutionrelative:layout assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\layout assignment\\layout assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|solutionrelative:layout assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\layout assignment\\layout assignment\\models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|solutionrelative:layout assignment\\models\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\layout assignment\\layout assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|solutionrelative:layout assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\layout assignment\\layout assignment\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|solutionrelative:layout assignment\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Layout Assignment\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Layout Assignment\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T18:13:46.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "_CiryPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Shared\\_CiryPartial.cshtml",
+              "RelativeDocumentMoniker": "Layout Assignment\\Views\\Shared\\_CiryPartial.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Shared\\_CiryPartial.cshtml",
+              "RelativeToolTip": "Layout Assignment\\Views\\Shared\\_CiryPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T18:11:54.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Layout Assignment\\Views\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\_Layout.cshtml",
-              "RelativeToolTip": "Layout Assignment\\Views\\_Layout.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAcwDUAAAAHAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Layout Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Layout Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-24T14:34:12.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "Layout Assignment\\Views\\Home\\Details.cshtml",
               "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Home\\Details.cshtml",
               "RelativeToolTip": "Layout Assignment\\Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-24T14:32:57.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Layout Assignment\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Layout Assignment\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Layout Assignment\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-24T14:29:32.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Layout Assignment\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Layout Assignment\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABwAAACAVVVVVVUtwCoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T14:15:34.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CityWeather.cs",
-              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Models\\CityWeather.cs",
-              "RelativeDocumentMoniker": "Layout Assignment\\Models\\CityWeather.cs",
-              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Models\\CityWeather.cs",
-              "RelativeToolTip": "Layout Assignment\\Models\\CityWeather.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:14:29.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Program.cs",
-              "RelativeDocumentMoniker": "Layout Assignment\\Program.cs",
-              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Program.cs",
-              "RelativeToolTip": "Layout Assignment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:07:28.337Z",
               "EditorCaption": ""
             }
           ]

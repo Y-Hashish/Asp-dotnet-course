@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\viewcomponentexample\\viewcomponentexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|solutionrelative:viewcomponentexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\viewcomponentexample\\viewcomponentexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|solutionrelative:viewcomponentexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\viewcomponentexample\\viewcomponentexample\\viewcomponents\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|solutionrelative:viewcomponentexample\\viewcomponents\\gridviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\viewcomponentexample\\viewcomponentexample\\views\\shared\\components\\grid\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|solutionrelative:viewcomponentexample\\views\\shared\\components\\grid\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\viewcomponentexample\\viewcomponentexample\\models\\persongrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|solutionrelative:viewcomponentexample\\models\\persongrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\viewcomponentexample\\viewcomponentexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|solutionrelative:viewcomponentexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\viewcomponentexample\\viewcomponentexample\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|solutionrelative:viewcomponentexample\\wwwroot\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\viewcomponentexample\\viewcomponentexample\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|solutionrelative:viewcomponentexample\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\viewcomponentexample\\viewcomponentexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|solutionrelative:viewcomponentexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\viewcomponentexample\\viewcomponentexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E62343-C7F9-DA3F-B2A4-CBC8F472F85A}|ViewComponentExample\\ViewComponentExample.csproj|solutionrelative:viewcomponentexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\Views\\Shared\\Components\\Grid\\Default.cshtml",
+              "RelativeDocumentMoniker": "ViewComponentExample\\Views\\Shared\\Components\\Grid\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\Views\\Shared\\Components\\Grid\\Default.cshtml",
+              "RelativeToolTip": "ViewComponentExample\\Views\\Shared\\Components\\Grid\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T16:36:42.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ViewComponentExample\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\Models\\Person.cs",
+              "RelativeToolTip": "ViewComponentExample\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:31:41.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\wwwroot\\StyleSheet.css",
+              "RelativeDocumentMoniker": "ViewComponentExample\\wwwroot\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\wwwroot\\StyleSheet.css",
+              "RelativeToolTip": "ViewComponentExample\\wwwroot\\StyleSheet.css",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-26T07:01:04.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewComponentExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewComponentExample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T06:51:34.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GridViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\ViewComponents\\GridViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponentExample\\ViewComponents\\GridViewComponent.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\ViewComponents\\GridViewComponent.cs",
+              "RelativeToolTip": "ViewComponentExample\\ViewComponents\\GridViewComponent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:43:29.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ViewComponentExample\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ViewComponentExample\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T06:38:04.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewComponentExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewComponentExample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA7wCkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:37:11.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonGrid.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\Models\\PersonGrid.cs",
+              "RelativeDocumentMoniker": "ViewComponentExample\\Models\\PersonGrid.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\Models\\PersonGrid.cs",
+              "RelativeToolTip": "ViewComponentExample\\Models\\PersonGrid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T07:32:32.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ViewComponentExample\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ViewComponentExample\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-26T06:34:21.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\Program.cs",
+              "RelativeDocumentMoniker": "ViewComponentExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ViewComponentExample\\ViewComponentExample\\Program.cs",
+              "RelativeToolTip": "ViewComponentExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T06:31:10.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

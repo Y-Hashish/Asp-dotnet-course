@@ -1,0 +1,16 @@
+﻿@model PersonGrid
+<h1>Home Page </h1>
+
+<button class="button button-blue-back" type="button" id="bb">View component list </button>
+
+<div class="show box">
+
+</div>
+
+<script>
+    document.querySelector("#bb").addEventListener("click", async function(){
+        var response = await fetch("invoke-list");
+        var data = await response.text(); 
+        document.querySelector(".show").innerHTML = data;
+    })
+</script>

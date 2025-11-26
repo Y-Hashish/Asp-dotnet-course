@@ -7,8 +7,4 @@
     <RootNamespace>Partial_Views</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Models\" />
-  </ItemGroup>
-
 </Project>

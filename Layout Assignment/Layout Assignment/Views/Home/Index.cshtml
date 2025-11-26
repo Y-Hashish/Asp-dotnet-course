@@ -8,41 +8,7 @@
     <div class="main  ">
         @foreach (CityWeather city in Model)
         {
-            if (city.TemperatureFahrenheit < 44)
-            {
-                <div class="weather-box box blue">
-                    <div class="right">
-                        <h2>@city.CityName</h2>
-                        <h4>@city.DateAndTime.TimeOfDay AM</h4>
-                        <a href="~/details/@city.CityUniqueCode">Details</a>
-                    </div>
-                    <div class="left"><h3>@city.TemperatureFahrenheit F </h3></div>
-                </div>
-            }
-            else if (city.TemperatureFahrenheit >= 44 && city.TemperatureFahrenheit <= 74)
-            {
-                <div class="weather-box box yellow">
-                    <div class="right">
-                        <h2>@city.CityName</h2>
-                        <h4>@city.DateAndTime.TimeOfDay AM</h4>
-                        <a href="~/details/@city.CityUniqueCode">Details</a>
-                    </div>
-                    <div class="left"><h3>@city.TemperatureFahrenheit F </h3></div>
-                </div>
-            }
-            else if (city.TemperatureFahrenheit > 74)
-            {
-                <div class="weather-box box orange">
-                    <div class="right">
-                        <h2>@city.CityName</h2>
-                        <h4>@city.DateAndTime.TimeOfDay AM</h4>
-                        <a href="~/details/@city.CityUniqueCode">Details</a>
-                    </div>
-                    <div class="left"><h3>@city.TemperatureFahrenheit F </h3></div>
-                </div>
-            }
-
-
+            <partial name="_CiryPartial" model="city" />
         }
     </div>
 </div>

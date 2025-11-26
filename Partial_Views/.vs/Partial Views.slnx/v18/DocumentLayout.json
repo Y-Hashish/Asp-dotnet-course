@@ -1,34 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\",
+  "WorkspaceRootPath": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial_Views\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A292F1FD-C3B9-4C0E-B645-7CCE6FA15F0C}|Partial Views\\Partial Views.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\partial views\\partial views\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A292F1FD-C3B9-4C0E-B645-7CCE6FA15F0C}|Partial Views\\Partial Views.csproj|solutionrelative:partial views\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C978A794-E2DF-CF42-43FA-46D9B12957B0}|Partial Views\\Partial Views.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\partial_views\\partial views\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C978A794-E2DF-CF42-43FA-46D9B12957B0}|Partial Views\\Partial Views.csproj|solutionrelative:partial views\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A292F1FD-C3B9-4C0E-B645-7CCE6FA15F0C}|Partial Views\\Partial Views.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\partial views\\partial views\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A292F1FD-C3B9-4C0E-B645-7CCE6FA15F0C}|Partial Views\\Partial Views.csproj|solutionrelative:partial views\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C978A794-E2DF-CF42-43FA-46D9B12957B0}|Partial Views\\Partial Views.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\partial_views\\partial views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C978A794-E2DF-CF42-43FA-46D9B12957B0}|Partial Views\\Partial Views.csproj|solutionrelative:partial views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A292F1FD-C3B9-4C0E-B645-7CCE6FA15F0C}|Partial Views\\Partial Views.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\partial views\\partial views\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A292F1FD-C3B9-4C0E-B645-7CCE6FA15F0C}|Partial Views\\Partial Views.csproj|solutionrelative:partial views\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A292F1FD-C3B9-4C0E-B645-7CCE6FA15F0C}|Partial Views\\Partial Views.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\partial views\\partial views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A292F1FD-C3B9-4C0E-B645-7CCE6FA15F0C}|Partial Views\\Partial Views.csproj|solutionrelative:partial views\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A292F1FD-C3B9-4C0E-B645-7CCE6FA15F0C}|Partial Views\\Partial Views.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\partial views\\partial views\\views\\shared\\_listpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A292F1FD-C3B9-4C0E-B645-7CCE6FA15F0C}|Partial Views\\Partial Views.csproj|solutionrelative:partial views\\views\\shared\\_listpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A292F1FD-C3B9-4C0E-B645-7CCE6FA15F0C}|Partial Views\\Partial Views.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\partial views\\partial views\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A292F1FD-C3B9-4C0E-B645-7CCE6FA15F0C}|Partial Views\\Partial Views.csproj|solutionrelative:partial views\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A292F1FD-C3B9-4C0E-B645-7CCE6FA15F0C}|Partial Views\\Partial Views.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\partial views\\partial views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A292F1FD-C3B9-4C0E-B645-7CCE6FA15F0C}|Partial Views\\Partial Views.csproj|solutionrelative:partial views\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C978A794-E2DF-CF42-43FA-46D9B12957B0}|Partial Views\\Partial Views.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\partial_views\\partial views\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C978A794-E2DF-CF42-43FA-46D9B12957B0}|Partial Views\\Partial Views.csproj|solutionrelative:partial views\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\Partial Views\\Views\\Home\\About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial_Views\\Partial Views\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "Partial Views\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\Partial Views\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial_Views\\Partial Views\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "Partial Views\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T23:15:53.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T00:51:01.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\Partial Views\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial_Views\\Partial Views\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Partial Views\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\Partial Views\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial_Views\\Partial Views\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Partial Views\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-24T23:09:07.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\Partial Views\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Partial Views\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\Partial Views\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Partial Views\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T23:07:58.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ListPartialView.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\Partial Views\\Views\\Shared\\_ListPartialView.cshtml",
-              "RelativeDocumentMoniker": "Partial Views\\Views\\Shared\\_ListPartialView.cshtml",
-              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\Partial Views\\Views\\Shared\\_ListPartialView.cshtml",
-              "RelativeToolTip": "Partial Views\\Views\\Shared\\_ListPartialView.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T23:07:47.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\Partial Views\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Partial Views\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\Partial Views\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Partial Views\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T21:53:46.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\Partial Views\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial_Views\\Partial Views\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Partial Views\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\Partial Views\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial_Views\\Partial Views\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Partial Views\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAA7wCMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T21:52:48.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\Partial Views\\Program.cs",
-              "RelativeDocumentMoniker": "Partial Views\\Program.cs",
-              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Partial Views\\Partial Views\\Program.cs",
-              "RelativeToolTip": "Partial Views\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:50:49.773Z",
               "EditorCaption": ""
             }
           ]
