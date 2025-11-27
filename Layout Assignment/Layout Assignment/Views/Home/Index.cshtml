@@ -8,7 +8,8 @@
     <div class="main  ">
         @foreach (CityWeather city in Model)
         {
-            <partial name="_CiryPartial" model="city" />
+            @* <partial name="_CiryPartial" model="city" /> *@
+            @await Component.InvokeAsync("Weather",city);
         }
     </div>
 </div>

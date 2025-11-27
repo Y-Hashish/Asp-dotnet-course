@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|solutionrelative:layout assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\layout assignment\\layout assignment\\viewcomponents\\weatherviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|solutionrelative:layout assignment\\viewcomponents\\weatherviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\layout assignment\\layout assignment\\views\\shared\\_cirypartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|solutionrelative:layout assignment\\views\\shared\\_cirypartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\layout assignment\\layout assignment\\views\\shared\\components\\weather\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|solutionrelative:layout assignment\\views\\shared\\components\\weather\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7BB31CB-BFC7-0A81-DC4F-5345007E4B70}|Layout Assignment\\Layout Assignment.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\layout assignment\\layout assignment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,11 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Shared\\Components\\Weather\\Default.cshtml",
+              "RelativeDocumentMoniker": "Layout Assignment\\Views\\Shared\\Components\\Weather\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Shared\\Components\\Weather\\Default.cshtml",
+              "RelativeToolTip": "Layout Assignment\\Views\\Shared\\Components\\Weather\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T14:31:32.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\ViewComponents\\WeatherViewComponent.cs",
+              "RelativeDocumentMoniker": "Layout Assignment\\ViewComponents\\WeatherViewComponent.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\ViewComponents\\WeatherViewComponent.cs",
+              "RelativeToolTip": "Layout Assignment\\ViewComponents\\WeatherViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T14:22:19.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Layout Assignment\\Views\\_ViewImports.cshtml",
@@ -46,25 +80,24 @@
               "RelativeToolTip": "Layout Assignment\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-25T18:13:46.348Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-25T18:13:46.348Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_CiryPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Shared\\_CiryPartial.cshtml",
               "RelativeDocumentMoniker": "Layout Assignment\\Views\\Shared\\_CiryPartial.cshtml",
               "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Shared\\_CiryPartial.cshtml",
               "RelativeToolTip": "Layout Assignment\\Views\\Shared\\_CiryPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-25T18:11:54.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Layout Assignment\\Views\\Shared\\_Layout.cshtml",
@@ -72,12 +105,11 @@
               "RelativeToolTip": "Layout Assignment\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAB8AAAAAAAAAAAAcwDIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T14:34:12.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T14:34:12.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "Layout Assignment\\Views\\Home\\Details.cshtml",
@@ -85,8 +117,7 @@
               "RelativeToolTip": "Layout Assignment\\Views\\Home\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T14:32:57.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T14:32:57.406Z"
             },
             {
               "$type": "Document",
@@ -94,16 +125,16 @@
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Layout Assignment\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "Layout Assignment\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Layout Assignment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-24T14:29:32.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Layout Assignment\\Layout Assignment\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Layout Assignment\\Controllers\\HomeController.cs",
@@ -111,8 +142,7 @@
               "RelativeToolTip": "Layout Assignment\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T14:15:34.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T14:15:34.512Z"
             }
           ]
         }
