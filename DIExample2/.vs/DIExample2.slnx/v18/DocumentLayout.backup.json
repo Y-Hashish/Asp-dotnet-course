@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\DIExample2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04485B7A-9D96-4ED6-AEDC-1414C9A63C37}|DIExample2\\DIExample2.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\diexample2\\diexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04485B7A-9D96-4ED6-AEDC-1414C9A63C37}|DIExample2\\DIExample2.csproj|solutionrelative:diexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D69F9FE-F1AA-4A1E-B668-E6B6A28A6635}|Services\\Services.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\diexample2\\services\\citiesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D69F9FE-F1AA-4A1E-B668-E6B6A28A6635}|Services\\Services.csproj|solutionrelative:services\\citiesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B004B3-D081-4C10-A09F-A56D9B512802}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\diexample2\\servicecontracts\\icitiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B004B3-D081-4C10-A09F-A56D9B512802}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\icitiesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04485B7A-9D96-4ED6-AEDC-1414C9A63C37}|DIExample2\\DIExample2.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\diexample2\\diexample2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04485B7A-9D96-4ED6-AEDC-1414C9A63C37}|DIExample2\\DIExample2.csproj|solutionrelative:diexample2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04485B7A-9D96-4ED6-AEDC-1414C9A63C37}|DIExample2\\DIExample2.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\diexample2\\diexample2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04485B7A-9D96-4ED6-AEDC-1414C9A63C37}|DIExample2\\DIExample2.csproj|solutionrelative:diexample2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04485B7A-9D96-4ED6-AEDC-1414C9A63C37}|DIExample2\\DIExample2.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\diexample2\\diexample2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04485B7A-9D96-4ED6-AEDC-1414C9A63C37}|DIExample2\\DIExample2.csproj|solutionrelative:diexample2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04485B7A-9D96-4ED6-AEDC-1414C9A63C37}|DIExample2\\DIExample2.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\diexample2\\diexample2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04485B7A-9D96-4ED6-AEDC-1414C9A63C37}|DIExample2\\DIExample2.csproj|solutionrelative:diexample2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICitiesService.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\DIExample2\\ServiceContracts\\ICitiesService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\ICitiesService.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\DIExample2\\ServiceContracts\\ICitiesService.cs",
+              "RelativeToolTip": "ServiceContracts\\ICitiesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:21:48.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CitiesServices.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\DIExample2\\Services\\CitiesServices.cs",
+              "RelativeDocumentMoniker": "Services\\CitiesServices.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\DIExample2\\Services\\CitiesServices.cs",
+              "RelativeToolTip": "Services\\CitiesServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:19:05.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\DIExample2\\DIExample2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DIExample2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\DIExample2\\DIExample2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DIExample2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T00:17:11.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\DIExample2\\DIExample2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DIExample2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\DIExample2\\DIExample2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DIExample2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:16:28.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\DIExample2\\DIExample2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DIExample2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\DIExample2\\DIExample2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DIExample2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T00:15:36.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\DIExample2\\DIExample2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DIExample2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\DIExample2\\DIExample2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DIExample2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T00:14:02.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\DIExample2\\DIExample2\\Program.cs",
+              "RelativeDocumentMoniker": "DIExample2\\Program.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\DIExample2\\DIExample2\\Program.cs",
+              "RelativeToolTip": "DIExample2\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T00:06:26.869Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

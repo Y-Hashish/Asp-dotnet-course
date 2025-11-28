@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DIExample2/DIExample2.csproj" />
+  <Project Path="ServiceContracts/ServiceContracts.csproj" />
+  <Project Path="Services/Services.csproj" />
+</Solution>

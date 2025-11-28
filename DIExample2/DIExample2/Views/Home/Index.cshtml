@@ -1,0 +1,17 @@
+﻿@model List<string>
+
+@{
+    ViewBag.Title = "home";
+}
+@inject ICitiesService city
+<h1>Home Page</h1>
+
+<ul class="list">
+
+    @foreach(string city in city.GetCities())
+    {
+        <li>
+            @city
+        </li>
+    }
+</ul>
