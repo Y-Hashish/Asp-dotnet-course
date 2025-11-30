@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\WeatherWithDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7677C70-9A03-4BF5-A202-F370E04B23F3}|WeatherWithDI\\WeatherWithDI.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\weatherwithdi\\weatherwithdi\\views\\shared\\components\\city\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7677C70-9A03-4BF5-A202-F370E04B23F3}|WeatherWithDI\\WeatherWithDI.csproj|solutionrelative:weatherwithdi\\views\\shared\\components\\city\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7677C70-9A03-4BF5-A202-F370E04B23F3}|WeatherWithDI\\WeatherWithDI.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\weatherwithdi\\weatherwithdi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7677C70-9A03-4BF5-A202-F370E04B23F3}|WeatherWithDI\\WeatherWithDI.csproj|solutionrelative:weatherwithdi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7677C70-9A03-4BF5-A202-F370E04B23F3}|WeatherWithDI\\WeatherWithDI.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\weatherwithdi\\weatherwithdi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7677C70-9A03-4BF5-A202-F370E04B23F3}|WeatherWithDI\\WeatherWithDI.csproj|solutionrelative:weatherwithdi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7677C70-9A03-4BF5-A202-F370E04B23F3}|WeatherWithDI\\WeatherWithDI.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\weatherwithdi\\weatherwithdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7677C70-9A03-4BF5-A202-F370E04B23F3}|WeatherWithDI\\WeatherWithDI.csproj|solutionrelative:weatherwithdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7677C70-9A03-4BF5-A202-F370E04B23F3}|WeatherWithDI\\WeatherWithDI.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\weatherwithdi\\weatherwithdi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7677C70-9A03-4BF5-A202-F370E04B23F3}|WeatherWithDI\\WeatherWithDI.csproj|solutionrelative:weatherwithdi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7677C70-9A03-4BF5-A202-F370E04B23F3}|WeatherWithDI\\WeatherWithDI.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\weatherwithdi\\weatherwithdi\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7677C70-9A03-4BF5-A202-F370E04B23F3}|WeatherWithDI\\WeatherWithDI.csproj|solutionrelative:weatherwithdi\\services\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7677C70-9A03-4BF5-A202-F370E04B23F3}|WeatherWithDI\\WeatherWithDI.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\weatherwithdi\\weatherwithdi\\services\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7677C70-9A03-4BF5-A202-F370E04B23F3}|WeatherWithDI\\WeatherWithDI.csproj|solutionrelative:weatherwithdi\\services\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7677C70-9A03-4BF5-A202-F370E04B23F3}|WeatherWithDI\\WeatherWithDI.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\weatherwithdi\\weatherwithdi\\viewcomponents\\cityviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7677C70-9A03-4BF5-A202-F370E04B23F3}|WeatherWithDI\\WeatherWithDI.csproj|solutionrelative:weatherwithdi\\viewcomponents\\cityviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\WeatherWithDI\\WeatherWithDI\\Views\\Shared\\Components\\City\\Default.cshtml",
+              "RelativeDocumentMoniker": "WeatherWithDI\\Views\\Shared\\Components\\City\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\WeatherWithDI\\WeatherWithDI\\Views\\Shared\\Components\\City\\Default.cshtml",
+              "RelativeToolTip": "WeatherWithDI\\Views\\Shared\\Components\\City\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T13:45:19.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\WeatherWithDI\\WeatherWithDI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WeatherWithDI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\WeatherWithDI\\WeatherWithDI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WeatherWithDI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T13:30:57.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\WeatherWithDI\\WeatherWithDI\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherWithDI\\Program.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\WeatherWithDI\\WeatherWithDI\\Program.cs",
+              "RelativeToolTip": "WeatherWithDI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:29:22.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\WeatherWithDI\\WeatherWithDI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WeatherWithDI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\WeatherWithDI\\WeatherWithDI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WeatherWithDI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-30T13:27:41.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\WeatherWithDI\\WeatherWithDI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WeatherWithDI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\WeatherWithDI\\WeatherWithDI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WeatherWithDI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:24:35.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\WeatherWithDI\\WeatherWithDI\\Services\\CityService.cs",
+              "RelativeDocumentMoniker": "WeatherWithDI\\Services\\CityService.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\WeatherWithDI\\WeatherWithDI\\Services\\CityService.cs",
+              "RelativeToolTip": "WeatherWithDI\\Services\\CityService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:18:07.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICityService.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\WeatherWithDI\\WeatherWithDI\\Services\\ICityService.cs",
+              "RelativeDocumentMoniker": "WeatherWithDI\\Services\\ICityService.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\WeatherWithDI\\WeatherWithDI\\Services\\ICityService.cs",
+              "RelativeToolTip": "WeatherWithDI\\Services\\ICityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:16:38.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CityViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\WeatherWithDI\\WeatherWithDI\\ViewComponents\\CityViewComponent.cs",
+              "RelativeDocumentMoniker": "WeatherWithDI\\ViewComponents\\CityViewComponent.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\WeatherWithDI\\WeatherWithDI\\ViewComponents\\CityViewComponent.cs",
+              "RelativeToolTip": "WeatherWithDI\\ViewComponents\\CityViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T13:07:50.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿@model CityWeather
+@{
+    string GetCssClassByFahrenheit(int TemperatureFahrenheit)
+    {
+        return TemperatureFahrenheit switch
+        {
+            (< 44) => "blue-back",
+            (>= 44) and (< 75) => "yellow",
+            (>= 75) => "orange"
+        };
+    }
+}
+<div class="weather-box box @GetCssClassByFahrenheit(Model.TemperatureFahrenheit)">
+    <div class="right">
+        <h2>@Model.CityName</h2>
+        <h4>@Model.DateAndTime.TimeOfDay AM</h4>
+        <a href="~/details/@Model.CityUniqueCode">Details</a>
+    </div>
+    <div class="left"><h3>@Model.TemperatureFahrenheit F </h3></div>
+</div>
