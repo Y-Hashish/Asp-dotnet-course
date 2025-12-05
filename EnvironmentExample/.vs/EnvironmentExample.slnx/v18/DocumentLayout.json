@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\EnvironmentExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74B65DED-6B79-340D-D8F4-2C4F0C321B88}|EnvironmentExample\\EnvironmentExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\environmentexample\\environmentexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B65DED-6B79-340D-D8F4-2C4F0C321B88}|EnvironmentExample\\EnvironmentExample.csproj|solutionrelative:environmentexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B65DED-6B79-340D-D8F4-2C4F0C321B88}|EnvironmentExample\\EnvironmentExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\environmentexample\\environmentexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74B65DED-6B79-340D-D8F4-2C4F0C321B88}|EnvironmentExample\\EnvironmentExample.csproj|solutionrelative:environmentexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B65DED-6B79-340D-D8F4-2C4F0C321B88}|EnvironmentExample\\EnvironmentExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\environmentexample\\environmentexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74B65DED-6B79-340D-D8F4-2C4F0C321B88}|EnvironmentExample\\EnvironmentExample.csproj|solutionrelative:environmentexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B65DED-6B79-340D-D8F4-2C4F0C321B88}|EnvironmentExample\\EnvironmentExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\environmentexample\\environmentexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{74B65DED-6B79-340D-D8F4-2C4F0C321B88}|EnvironmentExample\\EnvironmentExample.csproj|solutionrelative:environmentexample\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B65DED-6B79-340D-D8F4-2C4F0C321B88}|EnvironmentExample\\EnvironmentExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\environmentexample\\environmentexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74B65DED-6B79-340D-D8F4-2C4F0C321B88}|EnvironmentExample\\EnvironmentExample.csproj|solutionrelative:environmentexample\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74B65DED-6B79-340D-D8F4-2C4F0C321B88}|EnvironmentExample\\EnvironmentExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\environmentexample\\environmentexample\\views\\home\\other.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{74B65DED-6B79-340D-D8F4-2C4F0C321B88}|EnvironmentExample\\EnvironmentExample.csproj|solutionrelative:environmentexample\\views\\home\\other.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\EnvironmentExample\\EnvironmentExample\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EnvironmentExample\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\EnvironmentExample\\EnvironmentExample\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EnvironmentExample\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-05T19:44:13.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\EnvironmentExample\\EnvironmentExample\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EnvironmentExample\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\EnvironmentExample\\EnvironmentExample\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EnvironmentExample\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-05T17:09:46.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Other.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\EnvironmentExample\\EnvironmentExample\\Views\\Home\\Other.cshtml",
+              "RelativeDocumentMoniker": "EnvironmentExample\\Views\\Home\\Other.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\EnvironmentExample\\EnvironmentExample\\Views\\Home\\Other.cshtml",
+              "RelativeToolTip": "EnvironmentExample\\Views\\Home\\Other.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-05T17:01:56.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\EnvironmentExample\\EnvironmentExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EnvironmentExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\EnvironmentExample\\EnvironmentExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EnvironmentExample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-05T17:00:18.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\EnvironmentExample\\EnvironmentExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EnvironmentExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\EnvironmentExample\\EnvironmentExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EnvironmentExample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:58:40.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\EnvironmentExample\\EnvironmentExample\\Program.cs",
+              "RelativeDocumentMoniker": "EnvironmentExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\EnvironmentExample\\EnvironmentExample\\Program.cs",
+              "RelativeToolTip": "EnvironmentExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T16:54:00.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
