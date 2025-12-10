@@ -4,10 +4,10 @@ using System.Text;
 
 namespace ConsoleApp1
 {
-    internal class Parent
+    public class Parent
     {
         public static int count = 2;
-        public void Nigga()
+        public void  Nigga()
         {
             Console.WriteLine("parent");
         }

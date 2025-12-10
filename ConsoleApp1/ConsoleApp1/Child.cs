@@ -9,6 +9,8 @@ namespace ConsoleApp1
         public new void Nigga()
         {
             Console.WriteLine("child");
+            Console.WriteLine(Math.Pow(2, 2));
         }
+        
     }
 }
