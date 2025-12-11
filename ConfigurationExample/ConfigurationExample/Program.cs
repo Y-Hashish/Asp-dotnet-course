@@ -6,20 +6,17 @@ namespace ConfigurationExample
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
+
+            builder.Services.Configure<PersonApiOptions>
+                (builder.Configuration.GetSection("person"));
+
+            builder.Configuration
+                .AddJsonFile("MyAppSetting.json", optional: true, reloadOnChange: true);
+
             var app = builder.Build();
 
             app.UseStaticFiles();
             app.UseRouting();
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.Map("/config", async context =>
-                {
-                    await context.Response.WriteAsync(app.Configuration["myKey"]+"\n");
-                    await context.Response.WriteAsync(app.Configuration.GetValue<string>("myKey") + "\n");
-                    await context.Response.WriteAsync(app.Configuration.GetValue<string>("myKeys","nigga chill"));
-                    
-                });
-            });
             app.MapControllers();
 
             app.Run();

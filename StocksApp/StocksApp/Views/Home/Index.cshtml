@@ -1,0 +1,43 @@
+﻿@model Stock
+
+<div class="box trading-panel">
+    <div class="flex trading-panel-flex">
+        <div class="stock">
+            <h1 class="stock-title">
+                @Model.StockSympol
+            </h1>
+            <table>
+                <tbody>
+                    <tr>
+                        <td>Current : </td>
+                        <th>
+                            <small>$</small>
+                            <span class="price">@Model.CurrentPrice.ToString("N")</span>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td>Lowest Price : </td>
+                        <th>
+                            <small>$</small>
+                            <span class=" price">@Model.lowestPrice.ToString("N")</span>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td>Highest price : </td>
+                        <th>
+                            <small>$</small>
+                            <span class=" price">@Model.highestPrice.ToString("N")</span>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td>Opening price : </td>
+                        <th>
+                            <small>$</small>
+                            <span class=" price">@Model.openPrice.ToString("N")</span>
+                        </th>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

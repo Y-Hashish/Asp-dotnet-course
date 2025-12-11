@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ConfigurationExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\configurationexample\\configurationexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\configurationexample\\configurationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\configurationexample\\configurationexample\\myappsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\myappsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\configurationexample\\configurationexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\configurationexample\\configurationexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\configurationexample\\configurationexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\configurationexample\\configurationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\configurationexample\\configurationexample\\personapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\personapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\configurationexample\\configurationexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E33AEBAB-24A8-809F-FD79-E462B554D237}|ConfigurationExample\\ConfigurationExample.csproj|solutionrelative:configurationexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +34,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MyAppSetting.json",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ConfigurationExample\\ConfigurationExample\\MyAppSetting.json",
+              "RelativeDocumentMoniker": "ConfigurationExample\\MyAppSetting.json",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ConfigurationExample\\ConfigurationExample\\MyAppSetting.json",
+              "RelativeToolTip": "ConfigurationExample\\MyAppSetting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T13:45:43.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonApiOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ConfigurationExample\\ConfigurationExample\\PersonApiOptions.cs",
+              "RelativeDocumentMoniker": "ConfigurationExample\\PersonApiOptions.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ConfigurationExample\\ConfigurationExample\\PersonApiOptions.cs",
+              "RelativeToolTip": "ConfigurationExample\\PersonApiOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:43:46.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ConfigurationExample\\ConfigurationExample\\appsettings.json",
               "RelativeDocumentMoniker": "ConfigurationExample\\appsettings.json",
@@ -38,11 +71,12 @@
               "RelativeToolTip": "ConfigurationExample\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-05T20:42:06.383Z"
+              "WhenOpened": "2025-12-05T20:42:06.383Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ConfigurationExample\\ConfigurationExample\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ConfigurationExample\\Views\\Home\\Index.cshtml",
@@ -54,28 +88,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ConfigurationExample\\ConfigurationExample\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ConfigurationExample\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ConfigurationExample\\ConfigurationExample\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ConfigurationExample\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T20:22:24.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ConfigurationExample\\ConfigurationExample\\Program.cs",
               "RelativeDocumentMoniker": "ConfigurationExample\\Program.cs",
               "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\ConfigurationExample\\ConfigurationExample\\Program.cs",
               "RelativeToolTip": "ConfigurationExample\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T19:55:27.171Z"
+              "WhenOpened": "2025-12-05T19:55:27.171Z",
+              "EditorCaption": ""
             }
           ]
         }

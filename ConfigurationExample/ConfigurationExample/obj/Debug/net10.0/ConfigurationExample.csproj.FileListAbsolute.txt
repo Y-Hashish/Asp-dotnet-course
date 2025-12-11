@@ -22,7 +22,6 @@ C:\Users\Hashish\Desktop\AspDotNet\ConfigurationExample\ConfigurationExample\obj
 C:\Users\Hashish\Desktop\AspDotNet\ConfigurationExample\ConfigurationExample\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\Hashish\Desktop\AspDotNet\ConfigurationExample\ConfigurationExample\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\Hashish\Desktop\AspDotNet\ConfigurationExample\ConfigurationExample\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\Hashish\Desktop\AspDotNet\ConfigurationExample\ConfigurationExample\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\Hashish\Desktop\AspDotNet\ConfigurationExample\ConfigurationExample\obj\Debug\net10.0\ConfigurationExample.dll
 C:\Users\Hashish\Desktop\AspDotNet\ConfigurationExample\ConfigurationExample\obj\Debug\net10.0\refint\ConfigurationExample.dll
 C:\Users\Hashish\Desktop\AspDotNet\ConfigurationExample\ConfigurationExample\obj\Debug\net10.0\ConfigurationExample.pdb
@@ -30,3 +29,5 @@ C:\Users\Hashish\Desktop\AspDotNet\ConfigurationExample\ConfigurationExample\obj
 C:\Users\Hashish\Desktop\AspDotNet\ConfigurationExample\ConfigurationExample\obj\Debug\net10.0\ref\ConfigurationExample.dll
 C:\Users\Hashish\Desktop\AspDotNet\ConfigurationExample\ConfigurationExample\obj\Debug\net10.0\ConfigurationExample.RazorAssemblyInfo.cache
 C:\Users\Hashish\Desktop\AspDotNet\ConfigurationExample\ConfigurationExample\obj\Debug\net10.0\ConfigurationExample.RazorAssemblyInfo.cs
+C:\Users\Hashish\Desktop\AspDotNet\ConfigurationExample\ConfigurationExample\bin\Debug\net10.0\MyAppSetting.json
+C:\Users\Hashish\Desktop\AspDotNet\ConfigurationExample\ConfigurationExample\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

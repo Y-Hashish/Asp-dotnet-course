@@ -1,0 +1,19 @@
+﻿@model SocialMediaLinks.SocialApi
+<style>
+    .fit{
+        width: fit-content;
+        padding: 5px;
+        display:inline-block;
+    }
+</style>
+<div class="container">
+    <div class="page-content">
+
+        <environment exclude="Development">
+            <div class="box fit"> <a href="@Model.Instagram"> Instagram</a></div>
+        </environment>
+        <div class="box fit"> <a href="@Model.Facebook"target ="_blank"> Facebook </a></div>
+        <div class="box fit"> <a href="@Model.Youtube" target ="_blank"> Youtube </a></div>
+        <div class="box fit"> <a href="@Model.Twitter" target ="_blank"> Twitter </a></div>
+    </div>
+</div>
