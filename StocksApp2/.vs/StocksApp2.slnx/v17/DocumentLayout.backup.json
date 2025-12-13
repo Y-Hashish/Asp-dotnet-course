@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\StocksApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F5B425-38C4-40A7-2445-FFFB44B6B416}|StocksApp2\\StocksApp2.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\stocksapp2\\stocksapp2\\stocksapp2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C3F5B425-38C4-40A7-2445-FFFB44B6B416}|StocksApp2\\StocksApp2.csproj|solutionrelative:stocksapp2\\stocksapp2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StocksApp2",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\StocksApp2\\StocksApp2\\StocksApp2.csproj",
+              "RelativeDocumentMoniker": "StocksApp2\\StocksApp2.csproj",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\StocksApp2\\StocksApp2\\StocksApp2.csproj",
+              "RelativeToolTip": "StocksApp2\\StocksApp2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T17:22:48.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

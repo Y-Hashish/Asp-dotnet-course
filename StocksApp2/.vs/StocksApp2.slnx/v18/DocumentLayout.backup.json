@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\StocksApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F5B425-38C4-40A7-2445-FFFB44B6B416}|StocksApp2\\StocksApp2.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\stocksapp2\\stocksapp2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F5B425-38C4-40A7-2445-FFFB44B6B416}|StocksApp2\\StocksApp2.csproj|solutionrelative:stocksapp2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F5B425-38C4-40A7-2445-FFFB44B6B416}|StocksApp2\\StocksApp2.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\stocksapp2\\stocksapp2\\stocksapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3F5B425-38C4-40A7-2445-FFFB44B6B416}|StocksApp2\\StocksApp2.csproj|solutionrelative:stocksapp2\\stocksapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F5B425-38C4-40A7-2445-FFFB44B6B416}|StocksApp2\\StocksApp2.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\stocksapp2\\stocksapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F5B425-38C4-40A7-2445-FFFB44B6B416}|StocksApp2\\StocksApp2.csproj|solutionrelative:stocksapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F5B425-38C4-40A7-2445-FFFB44B6B416}|StocksApp2\\StocksApp2.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\stocksapp2\\stocksapp2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3F5B425-38C4-40A7-2445-FFFB44B6B416}|StocksApp2\\StocksApp2.csproj|solutionrelative:stocksapp2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3F5B425-38C4-40A7-2445-FFFB44B6B416}|StocksApp2\\StocksApp2.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\stocksapp2\\stocksapp2\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3F5B425-38C4-40A7-2445-FFFB44B6B416}|StocksApp2\\StocksApp2.csproj|solutionrelative:stocksapp2\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\StocksApp2\\StocksApp2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StocksApp2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\StocksApp2\\StocksApp2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StocksApp2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-12T17:39:13.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\StocksApp2\\StocksApp2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StocksApp2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\StocksApp2\\StocksApp2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StocksApp2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T17:31:35.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StocksApp2",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\StocksApp2\\StocksApp2\\StocksApp2.csproj",
+              "RelativeDocumentMoniker": "StocksApp2\\StocksApp2.csproj",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\StocksApp2\\StocksApp2\\StocksApp2.csproj",
+              "RelativeToolTip": "StocksApp2\\StocksApp2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-12T17:23:23.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinnHubService.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\StocksApp2\\StocksApp2\\Services\\FinnHubService.cs",
+              "RelativeDocumentMoniker": "StocksApp2\\Services\\FinnHubService.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\StocksApp2\\StocksApp2\\Services\\FinnHubService.cs",
+              "RelativeToolTip": "StocksApp2\\Services\\FinnHubService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:14:14.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\StocksApp2\\StocksApp2\\Program.cs",
+              "RelativeDocumentMoniker": "StocksApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\StocksApp2\\StocksApp2\\Program.cs*",
+              "RelativeToolTip": "StocksApp2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:10:23.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
