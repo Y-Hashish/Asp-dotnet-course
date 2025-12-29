@@ -6,6 +6,7 @@ namespace ServiceContracts
     {
         CountryResponse AddCountry(CountyAddRequest? countyAddRequest);
         List<CountryResponse> GetCountryList();
+        CountryResponse GetCountry(Guid? countryId);
 
     }
 }
