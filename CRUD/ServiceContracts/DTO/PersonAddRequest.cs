@@ -2,6 +2,7 @@
 using ServiceContracts.Enums;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 using System.Xml.Linq;
 
@@ -9,7 +10,10 @@ namespace ServiceContracts.DTO
 {
     public class PersonAddRequest
     {
+        [Required(ErrorMessage ="Name can't be null")]
         public string? PersonName { get; set; }
+        [Required(ErrorMessage = "Email can't be null")]
+        [EmailAddress]
         public string? Email { get; set; }
         public DateTime? DateOfBirth { get; set; }
         public GenderOptions? Gender { get; set; }
