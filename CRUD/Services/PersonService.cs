@@ -64,5 +64,49 @@ namespace Services
                 return null;
             return person.ToPersonResponse();
         }
+
+        public List<PersonResponse> GetFilteredPersons(string searchBy, string? searchString)
+        {
+            List<PersonResponse> allPersons = GetPersonList();
+            List<PersonResponse> matchedPersons = allPersons;
+
+            if (string.IsNullOrEmpty(searchString) || string.IsNullOrEmpty(searchBy))
+            {
+                return matchedPersons;
+            }
+
+            switch(searchBy)
+            {
+                case nameof(Person.PersonName):
+                    matchedPersons.Where(p => (!string.IsNullOrEmpty(p.PersonName)) ? p.PersonName.
+                    Contains(searchString, StringComparison.OrdinalIgnoreCase) : true).ToList(); 
+                    break;
+                case nameof(Person.Email):
+                    matchedPersons.Where(p => (!string.IsNullOrEmpty(p.Email)) ? p.Email.
+                    Contains(searchString, StringComparison.OrdinalIgnoreCase) : true).ToList(); 
+                    break;
+                case nameof(Person.DateOfBirth):
+                    matchedPersons.Where(p => ( p.DateOfBirth != null) ? p.DateOfBirth.Value.ToString("dd MMMM yyyy").
+                    Contains(searchString, StringComparison.OrdinalIgnoreCase) : true).ToList(); 
+                    break;
+                case nameof(Person.Gender):
+                    matchedPersons.Where(p => (!string.IsNullOrEmpty(p.Gender)) ? p.Gender.
+                    Contains(searchString, StringComparison.OrdinalIgnoreCase) : true).ToList(); 
+                    break;
+                case nameof(Person.CountryID):
+                    matchedPersons.Where(p => (!string.IsNullOrEmpty(p.Country)) ? p.Country.
+                    Contains(searchString, StringComparison.OrdinalIgnoreCase) : true).ToList(); 
+                    break;
+                case nameof(Person.Address):
+                    matchedPersons.Where(p => (!string.IsNullOrEmpty(p.Address)) ? p.Address.
+                    Contains(searchString, StringComparison.OrdinalIgnoreCase) : true).ToList(); 
+                    break;
+                default: matchedPersons = allPersons; break;
+
+            }
+            return matchedPersons;
+
+
+        }
     }
 }

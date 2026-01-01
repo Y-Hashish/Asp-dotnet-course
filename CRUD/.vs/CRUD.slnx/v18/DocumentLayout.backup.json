@@ -7,28 +7,12 @@
       "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\crud\\crudtests\\personservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\personservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\crud\\servicecontracts\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE6144F2-3E11-473E-A412-DDC364890458}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\crud\\crudtests\\countyservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\countyservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\crud\\services\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97207750-6972-232F-BB7B-6106666106AF}|Services\\Services.csproj|solutionrelative:services\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\crud\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\crud\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95DE3BD9-A587-35A9-17E0-3C34D2A57441}|Entities\\Entities.csproj|solutionrelative:entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\crud\\crudtests\\personservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9D0B30F-2F17-5B40-FFEC-8EF7A669A207}|CRUDTests\\CRUDTests.csproj|solutionrelative:crudtests\\personservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +22,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CRUD\\CRUDTests\\PersonServiceTest.cs",
+              "RelativeDocumentMoniker": "CRUDTests\\PersonServiceTest.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CRUD\\CRUDTests\\PersonServiceTest.cs",
+              "RelativeToolTip": "CRUDTests\\PersonServiceTest.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAAAcwDgBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T14:36:03.797Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,91 +49,23 @@
               "RelativeDocumentMoniker": "Services\\PersonService.cs",
               "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CRUD\\Services\\PersonService.cs",
               "RelativeToolTip": "Services\\PersonService.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAqwDQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-30T18:02:12.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ValidationHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CRUD\\Services\\Helpers\\ValidationHelper.cs",
-              "RelativeDocumentMoniker": "Services\\Helpers\\ValidationHelper.cs",
-              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CRUD\\Services\\Helpers\\ValidationHelper.cs",
-              "RelativeToolTip": "Services\\Helpers\\ValidationHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T16:53:27.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CRUD\\Entities\\Person.cs",
-              "RelativeDocumentMoniker": "Entities\\Person.cs",
-              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CRUD\\Entities\\Person.cs",
-              "RelativeToolTip": "Entities\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T16:39:12.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PersonServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CRUD\\CRUDTests\\PersonServiceTest.cs",
-              "RelativeDocumentMoniker": "CRUDTests\\PersonServiceTest.cs",
-              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CRUD\\CRUDTests\\PersonServiceTest.cs",
-              "RelativeToolTip": "CRUDTests\\PersonServiceTest.cs",
-              "ViewState": "AgIAAJ8AAAAAAAAAAAAUwK4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T14:17:19.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "IPersonService.cs",
               "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CRUD\\ServiceContracts\\IPersonService.cs",
               "RelativeDocumentMoniker": "ServiceContracts\\IPersonService.cs",
               "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CRUD\\ServiceContracts\\IPersonService.cs",
               "RelativeToolTip": "ServiceContracts\\IPersonService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-30T14:12:27.106Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CountyServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CRUD\\CRUDTests\\CountyServiceTest.cs",
-              "RelativeDocumentMoniker": "CRUDTests\\CountyServiceTest.cs",
-              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CRUD\\CRUDTests\\CountyServiceTest.cs",
-              "RelativeToolTip": "CRUDTests\\CountyServiceTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T15:34:06.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CRUD\\Entities\\Country.cs",
-              "RelativeDocumentMoniker": "Entities\\Country.cs",
-              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\CRUD\\Entities\\Country.cs",
-              "RelativeToolTip": "Entities\\Country.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T18:43:12.01Z"
             }
           ]
         }
