@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Day5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5291D7-39B5-4C87-84F9-E13F56B2D9F3}|Day5\\Day5.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\day5\\day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5291D7-39B5-4C87-84F9-E13F56B2D9F3}|Day5\\Day5.csproj|solutionrelative:day5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5291D7-39B5-4C87-84F9-E13F56B2D9F3}|Day5\\Day5.csproj|c:\\users\\hashish\\desktop\\aspdotnet\\day5\\day5\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5291D7-39B5-4C87-84F9-E13F56B2D9F3}|Day5\\Day5.csproj|solutionrelative:day5\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Day5\\Day5\\BankAccount.cs",
+              "RelativeDocumentMoniker": "Day5\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Day5\\Day5\\BankAccount.cs",
+              "RelativeToolTip": "Day5\\BankAccount.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAzwGkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:34:47.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Day5\\Day5\\Program.cs",
+              "RelativeDocumentMoniker": "Day5\\Program.cs",
+              "ToolTip": "C:\\Users\\Hashish\\Desktop\\AspDotNet\\Day5\\Day5\\Program.cs",
+              "RelativeToolTip": "Day5\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T10:31:43.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
